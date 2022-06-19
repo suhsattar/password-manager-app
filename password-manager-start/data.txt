@@ -1,0 +1,5 @@
+amazon | john@gmail.com | password
+facebook | john@gmail.com | waetas
+amazon | john@gmail.com | goeajg
+ | john@gmail.com | 
+twitter | john@gmail.com | G&uZ28$J)ovOaD
